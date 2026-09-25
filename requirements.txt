@@ -1,2 +1,4 @@
-plotly
-requests
+streamlit
+numpy
+pandas
+matplotlib
